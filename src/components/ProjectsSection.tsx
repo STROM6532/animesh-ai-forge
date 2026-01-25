@@ -51,6 +51,7 @@ const projects = [
       "Visualized predictions vs actual prices for analysis",
       "Understood financial data patterns and ML regression techniques",
     ],
+    liveLink: "https://stockspriceprediction.netlify.app/",
   },
 ];
 
@@ -149,6 +150,19 @@ const ProjectCard = ({ project, index, isInView }: { project: typeof projects[0]
               ))}
             </div>
           </div>
+              {project.liveLink && (
+  <a
+    href={project.liveLink}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="mt-4 inline-flex items-center gap-2 px-4 py-2 rounded-xl 
+               bg-primary/10 text-primary font-medium text-sm 
+               hover:bg-primary hover:text-white transition-all"
+  >
+    <ExternalLink size={16} />
+    Live Project
+  </a>
+)}
 
           {/* Outcomes */}
           <div className="space-y-2">
