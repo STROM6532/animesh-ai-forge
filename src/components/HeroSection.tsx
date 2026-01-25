@@ -167,7 +167,7 @@ const HeroSection = () => {
                 animate={{ y: [0, -8, 0] }}
                 transition={{ duration: 4, repeat: Infinity, ease: "easeInOut", delay: 1 }}
               >
-                <span className="text-sm font-medium gradient-text">☁️ Cloud</span>
+                <span className="text-sm font-medium gradient-text">SQL</span>
               </motion.div>
             </div>
           </motion.div>

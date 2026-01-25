@@ -59,9 +59,9 @@ const Footer = () => {
 
           {/* Made with */}
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
-            <span>Made with</span>
-            <Heart size={14} className="text-destructive fill-current" />
-            <span>by Animesh</span>
+            <span>Made </span>
+            
+            <span>by Animesh Sahoo</span>
           </div>
         </div>
       </div>
