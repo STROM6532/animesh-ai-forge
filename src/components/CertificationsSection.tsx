@@ -69,6 +69,14 @@ const certifications = [
     color: "accent",
     icon: "🏗️",
   },
+    {
+    id: 9,
+    title: "Machine Learning Using Python",
+    issuer: "Forage",
+    pdfPath: "/certificates/m.pdf",
+    color: "accent",
+    icon: "💻",
+  },
 ];
 
 const CertificationsSection = () => {
