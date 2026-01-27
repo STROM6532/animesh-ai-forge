@@ -20,30 +20,7 @@ const experiences = [
     icon: "⛓️",
     type: "internship",
   },
-  {
-    id: 3,
-    title: "Cloud Migration Fundamentals",
-    organization: "AWS MGN",
-    description: "Training on AWS Application Migration Service, learning cloud infrastructure and migration strategies.",
-    icon: "☁️",
-    type: "training",
-  },
-  {
-    id: 4,
-    title: "Generative AI Fundamentals",
-    organization: "IBM SkillsBuild",
-    description: "In-depth training on generative AI technologies, including LLMs and their applications in real-world scenarios.",
-    icon: "🧠",
-    type: "training",
-  },
-  {
-    id: 5,
-    title: "Open Standards Development",
-    organization: "Linux Foundation",
-    description: "Training on GitHub workflows, open-source contribution practices, and collaborative development standards.",
-    icon: "🐧",
-    type: "training",
-  },
+
 ];
 
 const achievements = [
