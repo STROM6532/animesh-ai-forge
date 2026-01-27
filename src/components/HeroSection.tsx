@@ -112,7 +112,7 @@ const HeroSection = () => {
                 <div className="text-sm text-muted-foreground">Certifications</div>
               </div>
               <div className="text-center lg:text-left">
-                <div className="text-3xl font-display font-bold text-primary">5+</div>
+                <div className="text-3xl font-display font-bold text-primary">2+</div>
                 <div className="text-sm text-muted-foreground">Trainings</div>
               </div>
             </motion.div>
