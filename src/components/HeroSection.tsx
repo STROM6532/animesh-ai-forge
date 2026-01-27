@@ -104,7 +104,7 @@ const HeroSection = () => {
               className="grid grid-cols-3 gap-6 mt-12 pt-8 border-t border-border/50"
             >
               <div className="text-center lg:text-left">
-                <div className="text-3xl font-display font-bold text-primary">3+</div>
+                <div className="text-3xl font-display font-bold text-primary">5+</div>
                 <div className="text-sm text-muted-foreground">Projects</div>
               </div>
               <div className="text-center lg:text-left">
