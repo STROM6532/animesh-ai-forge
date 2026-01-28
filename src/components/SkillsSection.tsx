@@ -13,7 +13,7 @@ const skillCategories = [
     title: "AI / Machine Learning",
     icon: "🤖",
     color: "accent",
-    skills: ["Machine Learning", "Deep Learning", "NLP (Basics)"],
+    skills: ["Machine Learning", "Deep Learning", ],
   },
   {
     title: "Libraries & Frameworks",
